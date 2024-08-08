@@ -1,3 +1,3 @@
 # li-cloud-job
 
-1.网关使用nacos
+1.学习若依框架
